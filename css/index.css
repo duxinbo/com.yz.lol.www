@@ -1,0 +1,10 @@
+.head{
+width: 100%;
+height: 64px;
+background-color: #121212;
+}
+.head-left{
+ background-color: #121212;
+ width: 136px;
+ height: 64px;
+}
